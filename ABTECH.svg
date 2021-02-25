@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="ABTECH.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="96.559255"
+       y="289.67777"
+       width="81.703985"
+       height="66.848715"
+       id="rect958" />
+    <rect
+       x="-181.46636"
+       y="255.64238"
+       width="70.202313"
+       height="83.448032"
+       id="rect918" />
+    <rect
+       x="-27.816011"
+       y="193.3875"
+       width="548.93144"
+       height="67.338961"
+       id="rect54" />
+    <rect
+       x="-27.816011"
+       y="193.3875"
+       width="95.58873"
+       height="26.232753"
+       id="rect54-6" />
+    <rect
+       x="-27.816011"
+       y="193.3875"
+       width="548.93146"
+       height="67.338959"
+       id="rect1047" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3665584"
+     inkscape:cx="1020.6127"
+     inkscape:cy="533.8142"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="674"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path37"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       d="m 201.43016,104.58419 c 0,42.79514 -39.57507,-98.6806208 -86.75946,-98.6806208 -47.184378,0 -84.110308,141.4757608 -84.110318,98.6806208 0,-21.397571 9.56263,-40.769441 25.0233,-54.791911 15.46068,-14.02247 36.8194,-22.695552 60.411588,-22.695552 23.5922,0 44.95092,8.673082 60.41159,22.695552 15.46068,14.02247 25.0233,33.39434 25.0233,54.791911 z"
+       sodipodi:nodetypes="sssssss" />
+    <text
+       xml:space="preserve"
+       id="text52"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999999999999716px;line-height:1.25;font-family:AppleMyungjo;-inkscape-font-specification:'AppleMyungjo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect54);fill:#666666;fill-opacity:1;stroke:none;"
+       transform="translate(236.53625,-155.86208)"><tspan
+         x="-27.816406"
+         y="236.92883"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:AppleMyungjo;-inkscape-font-specification:'AppleMyungjo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666">ABTECH</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="327.19937"
+       y="46.390194"
+       id="text924"><tspan
+         sodipodi:role="line"
+         id="tspan922"
+         x="327.19937"
+         y="46.390194"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="329.78696"
+       y="7.4276347"
+       id="text928"><tspan
+         sodipodi:role="line"
+         id="tspan926"
+         x="329.78696"
+         y="7.4276347"
+         style="stroke-width:0.264583" /></text>
+    <path
+       id="path991"
+       style="fill:#0000ff;stroke:none;stroke-width:1.38958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 177.36599,26.058033 c 0,2.83851 -1.36164,5.408299 -3.56313,7.268461 -2.20149,1.860161 -5.24281,3.010695 -8.60217,3.010696 -3.35936,10e-7 -6.40068,-1.150534 -8.60217,-3.010695 -2.20148,-1.860162 -3.56313,-4.429952 -3.56313,-7.268462 0,-2.838511 1.36165,-5.4083 3.56313,-7.268462 2.20149,-1.860161 10.30584,-5.614937 8.60217,-3.010696 -5.01663,7.668485 0,20.558315 8.60217,3.010696 1.52683,-3.114605 3.56313,4.429951 3.56313,7.268462 z"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       id="path37-44"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.119271"
+       d="m 139.2457,253.05341 c 0,14.73149 -23.36245,-33.96909 -51.216935,-33.96909 -27.85447,0 -49.65306,48.70058 -49.65306,33.96909 0,-7.36573 5.64513,-14.03417 14.77207,-18.86116 9.12694,-4.827 21.73569,-7.81255 35.66293,-7.81255 13.927235,0 26.535985,2.98555 35.662925,7.81255 9.12695,4.82699 14.77207,11.49543 14.77207,18.86116 z"
+       sodipodi:nodetypes="sssssss" />
+    <path
+       id="path991-5"
+       style="fill:#0000ff;stroke:none;stroke-width:0.852121;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 142.22316,229.79834 c 0,1.50894 -0.9632,2.87503 -2.52049,3.86389 -1.55729,0.98885 -3.70866,1.60047 -6.08501,1.60047 -2.37635,0 -4.52772,-0.61162 -6.08501,-1.60047 -1.55728,-0.98886 -2.52049,-2.35495 -2.52049,-3.86389 0,-1.50894 0.96321,-2.87503 2.52049,-3.86388 1.55729,-0.98885 7.29015,-2.98487 6.08501,-1.60047 -3.54867,4.07653 0,10.92871 6.08501,1.60047 1.08005,-1.65571 2.52049,2.35494 2.52049,3.86388 z"
+       sodipodi:nodetypes="sssssssss" />
+    <text
+       xml:space="preserve"
+       id="text52-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57779999999999987px;line-height:1.25;font-family:AppleMyungjo;-inkscape-font-specification:'AppleMyungjo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect54-6);fill:#666666;fill-opacity:1;stroke:none;"
+       transform="translate(172.50994,38.455053)"><tspan
+         x="-27.816406"
+         y="212.73879"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:AppleMyungjo;-inkscape-font-specification:'AppleMyungjo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666">ABTECH</tspan></tspan></text>
+    <rect
+       style="fill:#666666;stroke:none;stroke-width:2.03752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1100"
+       width="210.1218"
+       height="3.3009069"
+       x="209.17848"
+       y="84.425552" />
+    <rect
+       style="fill:#666666;stroke:none;stroke-width:1.05466;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1100-6"
+       width="93.36116"
+       height="1.9904987"
+       x="144.87428"
+       y="-254.28168"
+       transform="scale(1,-1)" />
+    <circle
+       style="fill:#666666;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1126"
+       cx="427.38086"
+       cy="39.612316"
+       r="4.7534776" />
+    <ellipse
+       style="fill:#666666;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1128"
+       cx="242.70837"
+       cy="231.71724"
+       rx="2.2584527"
+       ry="2.1078892" />
+  </g>
+</svg>
